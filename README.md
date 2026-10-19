@@ -29,6 +29,7 @@
 在文件夹空白处点右键：
 - Windows 11：选择“显示更多选项”（或按 Shift+F10），即可看到两个菜单项。
 - Windows 10：直接出现在右键菜单中。
+- <img width="689" height="432" alt="image" src="https://github.com/user-attachments/assets/7bd81441-e6c3-4a5f-87f2-1d4ad5fd5fec" />
 
 “继续上次对话”恢复的是该文件夹下最近一次 Claude Code 会话。
 如果这个文件夹从未使用过 Claude CLI，请改用“用 Claude CLI 打开”开始新对话。
